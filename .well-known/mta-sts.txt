@@ -1,0 +1,4 @@
+version: STSv1
+mode: testing
+mx: your-mx-record-here.com
+max_age: 604800
